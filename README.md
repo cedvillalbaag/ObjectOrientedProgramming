@@ -13,7 +13,7 @@ Objeto: Es una instancia de una clase, con valores específicos en sus atributos
 ## Encapsulamiento
 
 Consiste en restringir el acceso a los datos de un objeto y solo permitir modificaciones a través de métodos específicos.
-Se logra con modificadores de acceso como private, public y protected.
+Se logra con *modificadores de acceso* como private, public y protected.
 
 
 ## Herencia
