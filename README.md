@@ -1,4 +1,4 @@
-# ObjectOrientedProgramming
+# Object Oriented Programming
 
 La Programación Orientada a Objetos (POO) es un paradigma de programación basado en el concepto de objetos, que son estructuras que combinan datos y comportamiento. Se utiliza para organizar el código de manera más modular, reutilizable y mantenible.
 
